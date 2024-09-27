@@ -1,0 +1,10 @@
+<suite name="Suite">
+    <listeners>
+        <listener class-name="listeners.CustomTestListener"/>
+    </listeners>
+    <test name="Test">
+        <classes>
+            <class name="testcases.AgifyTest"/>
+        </classes>
+    </test>
+</suite>
