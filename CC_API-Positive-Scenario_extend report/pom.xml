@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
-    <!-- TestNG -->
+    <!-- TestNG dependency-->
     <dependency>
         <groupId>org.testng</groupId>
         <artifactId>testng</artifactId>
@@ -20,7 +20,7 @@
         <version>4.4.0</version>
     </dependency>
 
-    <!-- Apache POI for Excel -->
+    <!-- Apache POI for Excel  -->
     <dependency>
         <groupId>org.apache.poi</groupId>
         <artifactId>poi-ooxml</artifactId>

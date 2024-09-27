@@ -35,7 +35,7 @@ public class AgifyTest {
         int actualAge = ResponseHelper.extractAge(response);
         String responseName = ResponseHelper.extractName(response);
 
-        // Log request and response details
+        // Log the request and response details
         logRequestResponse(response);
 
         // Validate the response with custom failure messages
